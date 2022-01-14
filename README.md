@@ -2,9 +2,9 @@
 We just need to confirm you have what it takes. Good luck!
 
 ## Rules
-* Fork this repository, so it can stay on Github
-* Commit your changes after every task
-* When you finish, send us the link to your repository and wait for an answer
+* Fork this repository, so it can stay on Github.
+* Commit your changes after every task.
+* When you finish, send us the link to your repository and wait for an answer.
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/en/)
@@ -32,7 +32,7 @@ To start the app on android, run:
 
 
 ### Task 1
-Implement the design below
+Implement the design below;
 ![Screenshot 1](design/mobile.png)
 
 ### Task 2
