@@ -4,7 +4,7 @@ We just need to confirm you have what it takes. Good luck
 ## Rules
 * Fork this repository, so it can stay on Github
 * Commit your changes after every task
-* When you finish, send us link to your repository and wait for an answer
+* When you finish, send us the link to your repository and wait for an answer
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/en/)
@@ -32,4 +32,4 @@ Add validation to the login form that validates on submit.
 
 
 ## Send us your repo!
-After finishing all tasks, reply the mail that sent you this repo with a link your repo.
+After finishing all tasks, reply the mail that sent you this repo with a link to your repo.
