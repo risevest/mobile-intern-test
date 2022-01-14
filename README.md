@@ -9,7 +9,8 @@ We just need to confirm you have what it takes. Good luck
 ## Prerequisites
 - [Node.js](https://nodejs.org/en/)
 - [yarn](https://yarnpkg.com/)
-- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
 
 
 ## Installation
@@ -21,7 +22,6 @@ To start local dev server, type in the following command in your terminal:
 
 ```yarn start```
 
-You should now see the working project page on [http://localhost:3080](http://localhost:3080)
 
 ### Task 1
 Implement the design below
